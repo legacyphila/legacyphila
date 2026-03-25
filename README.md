@@ -26,6 +26,12 @@ I’m a WordPress designer and developer focused on building responsive, user-fr
 * Clean, modern, and responsive designs
 * Focus on performance and user experience
 
+  ## 🧰 Tools & Technologies
+- WordPress  
+- WooCommerce  
+- HTML, CSS  
+- Basic PHP  
+
 ## 📫 Contact
 
 * Phone/WhatsApp: +233540635752
